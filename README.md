@@ -6,12 +6,10 @@ Currently pursuing my **Master’s in Data Engineering & AI**, where I work with
 ---
 
 ## 🛠 Skills & Tools
-- **Programming:** Python, SQL, Java
+- **Programming:** Python, SQL, Java, C++
 - **AI/ML:** PyTorch, TensorFlow, Scikit-learn
-- **Data Engineering:** Apache Spark, Airflow, Kafka
-- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Databases:** PostgreSQL, MySQL
 - **Visualization:** Matplotlib, Seaborn, Power BI, Tableau
-- **Cloud Platforms:** AWS, Azure, GCP
 - **Version Control:** Git & GitHub
 
 ---
